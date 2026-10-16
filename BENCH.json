@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "a09864b41a28ed04ebec3ce822b391194c2ea2a2",
-   "url": "https://github.com/trazyn/ieaseMusic",
-   "sha_verified_from": "agent_alternatives_denied.json/alternative_found | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/feizc/IEA",
+   "head": "bbce8fa8ad7b1bbd8735459495d4af4b7e914222",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/trazyn/ieaseMusic"
   }
  }
 }

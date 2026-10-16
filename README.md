@@ -1,14 +1,12 @@
 # IEA
 
-> Elegant NeteaseMusic desktop app, Rock with NeteaseMusic :metal:
+> Using stable diffusion and segmentation anything models for image editing.
 
-**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/trazyn/ieaseMusic · **Pinned commit:** `a09864b41a28ed04ebec3ce822b391194c2ea2a2` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/trazyn/ieaseMusic` as the implementation for the `IEA` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/feizc/IEA · **Pinned commit:** `bbce8fa8ad7b1bbd8735459495d4af4b7e914222` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-Elegant NeteaseMusic desktop app, Rock with NeteaseMusic :metal:
+Using stable diffusion and segmentation anything models for image editing.
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-3fc5e6bbc32d74cd1b826942ddb035b1142a4686c482260704cc5961f740bab1
+fdbec8894e2c8d4dd038935a0650f66b9f610b3412fc921a20340402d463df9e
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
